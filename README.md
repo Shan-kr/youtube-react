@@ -1,2 +1,3 @@
 # youtube-react
-Created with CodeSandbox
+This is a web App which uses youtube api to fetch search request from Youtube.
+
