@@ -15,7 +15,7 @@ const VideoDetail = ({ video }) => {
           src={videoSrc}
           allowFullScreen
           title="Video player"
-          width="600"
+ 
           height="400"
         />
       </div>
